@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://mohamed-alazab.github.io/Portfolio-project-1/](https://mohamed-alazab.github.io/Portfolio-project-1/)
+- 👨‍💻 All of my projects are available at [https://mohamed-alazab.github.io/Portfolio-project-1/](Profile)
 
 - 💬 Ask me about **C programming, C++ programming, Data structure, HTML & CSS & JS, UI/UX**
 
