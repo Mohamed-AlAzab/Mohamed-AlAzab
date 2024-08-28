@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-alazab&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-alazab" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning about **back-end**
 
-- 👨‍💻 All of my projects are available at ([Profile](https://mohamed-alazab.github.io/Profile/))
+- 👨‍💻 My [Profile](https://mohamed-alazab.github.io/Profile/)
 
 - 💬 Ask me about **C programming, C++ programming, Data structure, HTML & CSS & JS, UI/UX**
 
