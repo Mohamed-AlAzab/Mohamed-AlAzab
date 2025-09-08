@@ -1,22 +1,18 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mohamed Al-Azab</h1>
-<h3 align="center">A passionate frontend developer and UI/UX Designer from Egypt</h3>
+<h3 align="center">A Mobile developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-alazab&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-alazab" /> </p>
 
-- 🌱 I’m currently learning about **back-end**
-
-- 👨‍💻 My [Profile](https://mohamed-alazab.github.io/Profile/)
-
-- 💬 Ask me about **C programming, C++ programming, Data structure, HTML & CSS & JS, UI/UX**
-
-- 📫 How to reach me **mohamedazb200559@gmail.com**
+- 🌱 I’m currently learning about **Mobile Development**
+- 👨‍💻 My [Profile](https://portfolio-amber-six-77.vercel.app/)
+- 💬 Ask me about **C programming, C++ programming, Data structure, Dart, and Flutter**
+- 📫 How to reach me **mohamed.alazab.ibrahim@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohamed-al-azab-92b369311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-al-azab-92b369311" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohamed-alazab-ibrahim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-alazab-ibrahim/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
